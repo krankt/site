@@ -22,7 +22,7 @@ url: "http://krankt.gratis" # the base hostname & protocol for your site, e.g. h
 
 # Build settings
 markdown: kramdown
-theme: cayman
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 google_analytics: UA-110469604-1
