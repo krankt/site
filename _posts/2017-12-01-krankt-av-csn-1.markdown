@@ -5,4 +5,4 @@ date:   2017-12-03 20:54:00 +0000
 categories: krankt csn
 ---
 
-![Kränkt av SL](/assets/aldrig-skuldfri.jpg)
+![Kränkt av SL](/assets/skuldfri-2038+.jpg)
