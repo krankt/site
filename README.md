@@ -2,7 +2,7 @@
 
 ## Introduktion
 
-Här är vi alla kränkta. Av allt. Är du också kränkt? Se till att du har jävlen installerad, skapa en ny post under *_posts*, kopiera en tidigare som mall. Namnet skall vara *YYYY-MM-DD-en-titel-med-sma-bokstaver.markdown*. Skicka en ryckbegäran till denna förvaring, så kikar en administratör på den och eventuellt sammanfogas din gren med mäster-grenen. Så fort sammanfogningen skett sker ett bygge och din post hamnar på (http://krankt.gratis)[http://krankt.gratis]
+Här är vi alla kränkta. Av allt. Är du också kränkt? Se till att du har jävlen installerad, skapa en ny post under *_posts*, kopiera en tidigare som mall. Namnet skall vara *YYYY-MM-DD-en-titel-med-sma-bokstaver.markdown*. Skicka en ryckbegäran till denna förvaring, så kikar en administratör på den och eventuellt sammanfogas din gren med mäster-grenen. Så fort sammanfogningen skett sker ett bygge och din post hamnar på [http://krankt.gratis](http://krankt.gratis)
 
 ### Bilder
 
