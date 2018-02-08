@@ -9,7 +9,7 @@ Här är vi alla kränkta. Av allt. Är du också kränkt? Se till att du har j�
 Lägg bilder under *assets* katalogen, dessa länkas då med markdown på följande sätt:
 ```
 	![Titel](/assets/bildnamn.png)
-``
+```
 
 ## Utvecklare, lokalt
 
